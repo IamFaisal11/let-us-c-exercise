@@ -26,4 +26,8 @@ program to receive marks in A and B and Output whether the student has passed, f
 Qno4:Find the absolute value of a number entered through the keyboard. 
 
 Qno5: the ages of Ram, Sulabh and Ajay are input by the user, write a program to determine the youngest of the three.
-Qno6
+
+Qno6:Any integer is input through the keyboard. Write a program to 
+find out whether it is an odd number or even number. 
+ 
+
