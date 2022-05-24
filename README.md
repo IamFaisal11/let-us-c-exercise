@@ -30,4 +30,40 @@ Qno5: the ages of Ram, Sulabh and Ajay are input by the user, write a program to
 Qno6:Any integer is input through the keyboard. Write a program to 
 find out whether it is an odd number or even number. 
  
+Qnoo7:The policy followed by a company to process customer orders is given by the following rules:
+(i) If a customer order is less than or equal to that in stock and has credit is OK, supply has requirement.
+(ii) If has credit is not OK do not supply. Send him intimation.
+(iii) If has credit is Ok but the item in stock is less than has order, supply what is in stock. 
+Intimate to him data the balance will be shipped.
+Write a C program to implement the company policy 
 
+Qno8:ANY YEAR IS INPUT THROUGH THE KEYBOARD. WRITE A PROGRAM TO DETERMINE WHETHER THE YEAR IS A LEAP YEAR OR NOT
+
+Qno9:If cost price and selling price of an item is input through the 
+keyboard, write a program to determine whether the seller has 
+made profit or incurred loss. Also determine how much profit 
+he made or loss he incurred. 
+
+Qno10:Given the coordinates (x, y) of a center of a circle and it's radius, write a program which will determine 
+whether a point lies inside the circle, on the circle or outside the circle 
+(Hint: Use sqrt( ) and pow( ) functions)
+
+Qno11:A certain grade of steel is graded according to the following conditions: 
+(i) Hardness must be greater than 50 
+(ii) Carbon content must be less than 0.7 
+(iii) Tensile strength must be greater than 5600 
+The grades are as follows: 
+Grade is 10 if all three conditions are met 
+Grade is 9 if conditions (i) and (ii) are met 
+Grade is 8 if conditions (ii) and (iii) are met 
+Grade is 7 if conditions (i) and (iii) are met 
+Grade is 6 if only one condition is met 
+Grade is 5 if none of the conditions are met 
+Write a program, which will require the user to give values of hardness, carbon content and tensile strength 
+of the steel under consideration and output the grade of the steel
+
+Qno12:If the three sides of a triangle are entered through the keyboard, write a program to check whether the
+triangle is isosceles, equilateral, scalene or right angled triangke
+
+Qno13:Write a program to check whether a triangle is valid or not, when the three angles of the triangle are entered 
+through the keyboard. A triangle is valid if the sum of all the three angles is equal to 180 degrees
