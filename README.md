@@ -23,7 +23,7 @@ reappear in an examination in B to qualify.
 (iv) In all other cases he is declared to have failed. Write a 
 program to receive marks in A and B and Output whether the student has passed, failed or is allowed to reappear in B
 
-Qno4:the ages of Ram, Sulabh and Ajay are input by the user, write a program to determine the youngest of the three.
+Qno4:Find the absolute value of a number entered through the keyboard. 
 
 Qno5: the ages of Ram, Sulabh and Ajay are input by the user, write a program to determine the youngest of the three.
 Qno6
